@@ -1,0 +1,22 @@
+body::before{
+    content: '';
+    display: block;
+    height: 60px;
+}
+
+/* 768 is the brak point for medium */
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+.img-instructor{
+    width: 40%;
+}
+
+#map{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
