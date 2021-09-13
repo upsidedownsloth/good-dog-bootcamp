@@ -6,3 +6,5 @@ Follow along project at https://www.youtube.com/watch?v=4sosXZsdy-s&list=PLBoFwd
 - Instructor images: https://boredhumans.com/faces.php
 - Maps: https://www.add-map.net/
 
+### Web demo
+https://upsidedownsloth.github.io/good-dog-bootcamp/
